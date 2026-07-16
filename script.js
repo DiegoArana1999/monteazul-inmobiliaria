@@ -14,7 +14,7 @@ const chips = [...document.querySelectorAll('.chip')];
 const allCards = [...carousel.querySelectorAll('.project-card')];
 
 const numbers = {
-  Monteazul: '51918833937',
+  Monteazul: '51916677834',
   'El Sauce': '51916677834'
 };
 
